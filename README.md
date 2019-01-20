@@ -1,2 +1,8 @@
 # trades_watcher_bot
-Бот для Telegram, отправляющий информацию о ходе торгов на бирже по адресу http://spimex.com/markets/oil_products/trades/.
+Telegram-бот, сообщающий о ходе торгов на бирже http://spimex.com/markets/oil_products/trades/.
+
+- Telegram Bot API
+
+- Selenim
+
+- Beautiful Soup
